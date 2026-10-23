@@ -1,0 +1,337 @@
+{
+  "stations": [
+    {
+      "id": "station-1",
+      "name": "Stadium music",
+      "description": "Poerful percussions",
+      "timelineStartsAt": "2026-10-23T12:42:00.000Z",
+      "repeat": true,
+      "tracks": [
+        {
+          "id": "track-1-absounds-epic-drums-percussion-trailer-intro-promo-262284",
+          "title": "epic-drums-percussion-trailer-intro-promo",
+          "artist": "absounds",
+          "audioUrl": "samples/audio/absounds-epic-drums-percussion-trailer-intro-promo-262284.mp3",
+          "duration": "1:22.312"
+        },
+        {
+          "id": "track-4-bombinsound-football-football-soccer-game-music-490558-slowed",
+          "title": "football-football-soccer-game-music",
+          "artist": "bombinsound",
+          "audioUrl": "samples/audio/bombinsound-football-football-soccer-game-music-490558_slowed.mp3",
+          "duration": "1:15.467"
+        },
+        {
+          "id": "track-5-fassounds-snap-clap-commercial-advertising-promo-music-361980-slowed",
+          "title": "snap-clap-commercial-advertising-promo-music",
+          "artist": "fassounds",
+          "audioUrl": "samples/audio/fassounds-snap-clap-commercial-advertising-promo-music-361980_slowed.mp3",
+          "duration": "1:25.403"
+        },
+        {
+          "id": "track-6-fatbunny-soccer-football-493564-slowed",
+          "title": "soccer-football",
+          "artist": "fatbunny",
+          "audioUrl": "samples/audio/fatbunny-soccer-football-493564_slowed.mp3",
+          "duration": "1:00.609"
+        },
+        {
+          "id": "track-7-lnplusmusic-sports-football-soccer-music-416518-slowed",
+          "title": "sports-football-soccer-music",
+          "artist": "lnplusmusic",
+          "audioUrl": "samples/audio/lnplusmusic-sports-football-soccer-music-416518_slowed.mp3",
+          "duration": "0:57.057"
+        },
+        {
+          "id": "track-8-mfcc-football-football-soccer-game-music-337466-slowed",
+          "title": "football-football-soccer-game-music",
+          "artist": "mfcc",
+          "audioUrl": "samples/audio/mfcc-football-football-soccer-game-music-337466_slowed.mp3",
+          "duration": "1:10.686"
+        },
+        {
+          "id": "track-9-mfcc-football-soccer-game-music-259720-slowed",
+          "title": "football-soccer-game-music",
+          "artist": "mfcc",
+          "audioUrl": "samples/audio/mfcc-football-soccer-game-music-259720_slowed.mp3",
+          "duration": "1:05.875"
+        },
+        {
+          "id": "track-10-prettyjohn1-sports-football-soccer-music-499975-slowed",
+          "title": "sports-football-soccer-music",
+          "artist": "prettyjohn1",
+          "audioUrl": "samples/audio/prettyjohn1-sports-football-soccer-music-499975_slowed.mp3",
+          "duration": "1:30.759"
+        },
+        {
+          "id": "track-11-the-mountain-soccer-football-562625-slowed",
+          "title": "soccer-football",
+          "artist": "the_mountain",
+          "audioUrl": "samples/audio/the_mountain-soccer-football-562625_slowed.mp3",
+          "duration": "2:19.391"
+        },
+        {
+          "id": "track-12-tunetank-football-soccer-stadium-background-music-349316-slowed",
+          "title": "football-soccer-stadium-background-music",
+          "artist": "tunetank",
+          "audioUrl": "samples/audio/tunetank-football-soccer-stadium-background-music-349316_slowed.mp3",
+          "duration": "2:05.597"
+        },
+        {
+          "id": "track-13-tunetank-football-sports-music-347944-slowed",
+          "title": "football-sports-music",
+          "artist": "tunetank",
+          "audioUrl": "samples/audio/tunetank-football-sports-music-347944_slowed.mp3",
+          "duration": "3:21.695"
+        },
+        {
+          "id": "track-14-tunetank-sports-football-soccer-music-349258-slowed",
+          "title": "sports-football-soccer-music",
+          "artist": "tunetank",
+          "audioUrl": "samples/audio/tunetank-sports-football-soccer-music-349258_slowed.mp3",
+          "duration": "2:09.489"
+        },
+        {
+          "id": "track-15-yevhenastafiev-stadium-football-soccer-478711-slowed",
+          "title": "stadium-football-soccer",
+          "artist": "yevhenastafiev",
+          "audioUrl": "samples/audio/yevhenastafiev-stadium-football-soccer-478711_slowed.mp3",
+          "duration": "2:48.779"
+        },
+        {
+          "id": "track-16-artissizm-football-cup-brazil-funk-565894",
+          "title": "football-cup-brazil-funk",
+          "artist": "artissizm",
+          "audioUrl": "samples/audio/artissizm-football-cup-brazil-funk-565894.mp3",
+          "duration": "1:00.97"
+        },
+        {
+          "id": "track-17-audiocopper-stadium-601365",
+          "title": "stadium",
+          "artist": "audiocopper",
+          "audioUrl": "samples/audio/audiocopper-stadium-601365.mp3",
+          "duration": "0:37.642"
+        },
+        {
+          "id": "track-18-audioelevationlab-energetic-soccer-football-stadium-anthem-world-cup-2026-549077",
+          "title": "energetic-soccer-football-stadium-anthem-world-cup-2026",
+          "artist": "audioelevationlab",
+          "audioUrl": "samples/audio/audioelevationlab-energetic-soccer-football-stadium-anthem-world-cup-2026-549077.mp3",
+          "duration": "1:26.496"
+        },
+        {
+          "id": "track-19-berrydeep-stadium-energy-559509",
+          "title": "stadium-energy",
+          "artist": "berrydeep",
+          "audioUrl": "samples/audio/berrydeep-stadium-energy-559509.mp3",
+          "duration": "1:31.794"
+        },
+        {
+          "id": "track-20-fassounds-olympic-spirit-sport-advertising-stomp-361981",
+          "title": "olympic-spirit-sport-advertising-stomp",
+          "artist": "fassounds",
+          "audioUrl": "samples/audio/fassounds-olympic-spirit-sport-advertising-stomp-361981.mp3",
+          "duration": "1:21.633"
+        },
+        {
+          "id": "track-21-hitslab-football-soccer-stadium-background-music-274852",
+          "title": "football-soccer-stadium-background-music",
+          "artist": "hitslab",
+          "audioUrl": "samples/audio/hitslab-football-soccer-stadium-background-music-274852.mp3",
+          "duration": "1:05.933"
+        },
+        {
+          "id": "track-22-moodmode-the-typo-281337",
+          "title": "the-typo",
+          "artist": "moodmode",
+          "audioUrl": "samples/audio/moodmode-the-typo-281337.mp3",
+          "duration": "1:00.16"
+        },
+        {
+          "id": "track-23-sigmaeffect-epic-football-stadium-anthem-558915",
+          "title": "epic-football-stadium-anthem",
+          "artist": "sigmaeffect",
+          "audioUrl": "samples/audio/sigmaeffect-epic-football-stadium-anthem-558915.mp3",
+          "duration": "3:21"
+        },
+        {
+          "id": "track-24-sigmamusicart-football-football-music-551346",
+          "title": "football-football-music",
+          "artist": "sigmamusicart",
+          "audioUrl": "samples/audio/sigmamusicart-football-football-music-551346.mp3",
+          "duration": "0:59.112"
+        },
+        {
+          "id": "track-25-sigmamusicart-football-football-music-556038",
+          "title": "football-football-music",
+          "artist": "sigmamusicart",
+          "audioUrl": "samples/audio/sigmamusicart-football-football-music-556038.mp3",
+          "duration": "0:57.048"
+        },
+        {
+          "id": "track-26-sound4stock-football-soccer-game-sport-percussion-493040",
+          "title": "football-soccer-game-sport-percussion",
+          "artist": "sound4stock",
+          "audioUrl": "samples/audio/sound4stock-football-soccer-game-sport-percussion-493040.mp3",
+          "duration": "2:04.082"
+        }
+      ]
+    },
+    {
+      "id": "station-2",
+      "name": "Music mix",
+      "description": "Various genres",
+      "timelineStartsAt": "2026-10-23T12:42:00.000Z",
+      "repeat": true,
+      "tracks": [
+        {
+          "id": "track-27-alex-morgan-afro-pop-vlog-sunshine-573643",
+          "title": "afro-pop-vlog-sunshine",
+          "artist": "alex-morgan",
+          "audioUrl": "samples/audio/alex-morgan-afro-pop-vlog-sunshine-573643.mp3",
+          "duration": "1:00.84"
+        },
+        {
+          "id": "track-28-alex-morgan-cyberpunk-music-601089",
+          "title": "cyberpunk-music",
+          "artist": "alex-morgan",
+          "audioUrl": "samples/audio/alex-morgan-cyberpunk-music-601089.mp3",
+          "duration": "2:50.24"
+        },
+        {
+          "id": "track-29-alex-morgan-latin-jazz-vintage-cocktail-bar-560061",
+          "title": "latin-jazz-vintage-cocktail-bar",
+          "artist": "alex-morgan",
+          "audioUrl": "samples/audio/alex-morgan-latin-jazz-vintage-cocktail-bar-560061.mp3",
+          "duration": "2:49.224"
+        },
+        {
+          "id": "track-30-denys-brodovskyi-sandbreaker-379630",
+          "title": "sandbreaker",
+          "artist": "denys_brodovskyi",
+          "audioUrl": "samples/audio/denys_brodovskyi-sandbreaker-379630.mp3",
+          "duration": "2:07.53"
+        },
+        {
+          "id": "track-31-hitslab-football-soccer-football-music-559385-slowed",
+          "title": "football-soccer-football-music",
+          "artist": "hitslab",
+          "audioUrl": "samples/audio/hitslab-football-soccer-football-music-559385_slowed.mp3",
+          "duration": "1:59.756"
+        },
+        {
+          "id": "track-32-kiravale-afrobeat-593655",
+          "title": "afrobeat",
+          "artist": "kiravale",
+          "audioUrl": "samples/audio/kiravale-afrobeat-593655.mp3",
+          "duration": "1:15.792"
+        },
+        {
+          "id": "track-33-kontraa-sooty-tern-afro-dancehall-music-614847",
+          "title": "sooty-tern-afro-dancehall-music",
+          "artist": "kontraa",
+          "audioUrl": "samples/audio/kontraa-sooty-tern-afro-dancehall-music-614847.mp3",
+          "duration": "2:21.061"
+        },
+        {
+          "id": "track-34-kulakovka-gym-workout-266617",
+          "title": "gym-workout",
+          "artist": "kulakovka",
+          "audioUrl": "samples/audio/kulakovka-gym-workout-266617.mp3",
+          "duration": "2:08.81"
+        },
+        {
+          "id": "track-35-music-for-creators-fifa-298032",
+          "title": "fifa",
+          "artist": "music_for_creators",
+          "audioUrl": "samples/audio/music_for_creators-fifa-298032.mp3",
+          "duration": "1:29.548"
+        },
+        {
+          "id": "track-36-music-unlimited-percussion-action-energetic-sport-beat-143170",
+          "title": "percussion-action-energetic-sport-beat",
+          "artist": "music_unlimited",
+          "audioUrl": "samples/audio/music_unlimited-percussion-action-energetic-sport-beat-143170.mp3",
+          "duration": "0:52.297"
+        },
+        {
+          "id": "track-37-sergequadrado-bossa-in-my-heart-13187",
+          "title": "bossa-in-my-heart",
+          "artist": "sergequadrado",
+          "audioUrl": "samples/audio/sergequadrado-bossa-in-my-heart-13187.mp3",
+          "duration": "3:00.036"
+        },
+        {
+          "id": "track-38-sigmamusicart-motivation-sport-295032",
+          "title": "motivation-sport",
+          "artist": "sigmamusicart",
+          "audioUrl": "samples/audio/sigmamusicart-motivation-sport-295032.mp3",
+          "duration": "2:04.552"
+        },
+        {
+          "id": "track-39-47643651-brazil-vibes-neymar-x-soccer-x-dribble-x-stadium-contempt-500724",
+          "title": "brazil-vibes-neymar-x-soccer-x-dribble-x-stadium-contempt",
+          "artist": "47643651",
+          "audioUrl": "samples/audio/47643651-brazil-vibes-neymar-x-soccer-x-dribble-x-stadium-contempt-500724.mp3",
+          "duration": "3:04.372"
+        },
+        {
+          "id": "track-40-apalonbeats-afrobeat-afro-beat-529537",
+          "title": "afrobeat-afro-beat",
+          "artist": "apalonbeats",
+          "audioUrl": "samples/audio/apalonbeats-afrobeat-afro-beat-529537.mp3",
+          "duration": "2:16.856"
+        },
+        {
+          "id": "track-41-arpmedia-afrobeat-afro-beat-569473",
+          "title": "afrobeat-afro-beat",
+          "artist": "arpmedia",
+          "audioUrl": "samples/audio/arpmedia-afrobeat-afro-beat-569473.mp3",
+          "duration": "2:24.875"
+        },
+        {
+          "id": "track-42-dmsoundworks-afrobeat-type-beat-2026-reach-afrobeat-instrumental-601035",
+          "title": "afrobeat-type-beat-2026-reach-afrobeat-instrumental",
+          "artist": "dmsoundworks",
+          "audioUrl": "samples/audio/dmsoundworks-afrobeat-type-beat-2026-reach-afrobeat-instrumental-601035.mp3",
+          "duration": "2:51.938"
+        },
+        {
+          "id": "track-43-kontraa-hype-drill-music-438398",
+          "title": "hype-drill-music",
+          "artist": "kontraa",
+          "audioUrl": "samples/audio/kontraa-hype-drill-music-438398.mp3",
+          "duration": "3:55.512"
+        },
+        {
+          "id": "track-44-kontraa-teri-ye-adaa-romantic-song-206526",
+          "title": "teri-ye-adaa-romantic-song",
+          "artist": "kontraa",
+          "audioUrl": "samples/audio/kontraa-teri-ye-adaa-romantic-song-206526.mp3",
+          "duration": "1:08.519"
+        },
+        {
+          "id": "track-45-kontraa-toxic-love-hiphop-music-117607",
+          "title": "toxic-love-hiphop-music",
+          "artist": "kontraa",
+          "audioUrl": "samples/audio/kontraa-toxic-love-hiphop-music-117607.mp3",
+          "duration": "2:45.068"
+        },
+        {
+          "id": "track-46-sigmaeffect-epic-football-stadium-anthem-2-558918",
+          "title": "epic-football-stadium-anthem-2",
+          "artist": "sigmaeffect",
+          "audioUrl": "samples/audio/sigmaeffect-epic-football-stadium-anthem-2-558918.mp3",
+          "duration": "2:49.992"
+        },
+        {
+          "id": "track-47-solarflex-football-world-cup-music-558282",
+          "title": "football-world-cup-music",
+          "artist": "solarflex",
+          "audioUrl": "samples/audio/solarflex-football-world-cup-music-558282.mp3",
+          "duration": "3:02.857"
+        }
+      ]
+    }
+  ]
+}

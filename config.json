@@ -1,0 +1,37 @@
+{
+  "allowStationSwitch": true,
+  "stationQueryParam": "station",
+  "audioOffsetQueryParam": "audioOffsetMs",
+  "useManifestDurations": true,
+  "showPlaybackOffsetControls": true,
+  "showPlaybackCalibration": false,
+  "showSyncDiagnostics": true,
+  "customTimeSource": {
+    "name": "synChestra · UTC",
+    "url": "",
+    "responsePath": "utc",
+    "timeZonePath": "",
+    "responseFormat": "json"
+  },
+  "customTimeSourceOnly": false,
+  "stationCatalogUrl": "stations.json",
+  "stationCatalogFallbackUrl": "",
+  "timeSources": [
+    {
+      "name": "TimeAPI.io · UTC",
+      "url": "https://timeapi.io/api/Time/current/zone?timeZone=UTC",
+      "responsePath": "dateTime",
+      "timeZonePath": "timeZone"
+    }
+  ],
+  "resyncOnTrackChangeOnly": true,
+  "resyncIntervalMs": 15000,
+  "playbackSyncIntervalMs": 50,
+  "maxSmoothPlaybackDriftMs": 100,
+  "maxPlaybackRateAdjustmentPercent": 1,
+  "requestTimeoutMs": 5000,
+  "enableOutputLatencyCompensation": true,
+  "maxOutputLatencyCompensationMs": 900,
+  "outputLatencyRefreshIntervalMs": 10000,
+  "localFallback": false
+}
